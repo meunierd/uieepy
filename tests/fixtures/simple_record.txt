@@ -1,0 +1,37 @@
+MYUSERID
+BOOKS
+01-01-2002
+12:34:56
+
+UR|MYBOOK001234
+AA|Bester, Alfred
+TI|Computer Connection
+BN|0671039016
+NC|Book and dust jacket very good. Small spots on
+NC|back cover. Dust jacket has some edge wear and
+NC|slight rubbing. 183 pages.
+PR|12.50
+XA|4
+XB|1
+XC|BO
+XD|S
+
+UR|MYBOOKS000552
+TI|The Missions of New Mexico, 1776
+AA|Adams, Eleanor B. and Chavez, Angelico
+CN|Very fine w/fine dj
+PP|Albuquerque
+DP|1956
+NC|Well-preserved, excellent binding, good color in dj.
+MT|American History
+KE|Architecture
+KE|New Mexico
+KE|Religion
+KE|Western Americana
+LG|eng
+WT|18
+PR|145.00
+XA|4
+XB|1
+XC|BO
+XD|S
